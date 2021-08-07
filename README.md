@@ -13,14 +13,14 @@ Sometimes, I entertain myself by solving puzzle cubes ( eg : [Rubik's](https://e
 <a href="https://www.linkedin.com/in/girish-kumar-chandora/">
   <img align="left" alt="Girish Kumar's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
 </a>
-<a href="https://twitter.com/UnfathomableGuy">
-  <img align="left" alt="Girish Kumar's Twitter" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" />
-</a>
 <a href="https://math.stackexchange.com/users/341676/girish-kumar-chandora">
   <img align="left" alt="Girish Kumar's Stackexchange" width="20px" height="20px" src="https://user-images.githubusercontent.com/49120051/128595377-760489ec-9a6f-4c56-a2c0-b2a79ff46e2b.png" />
 </a>
 <a href="https://medium.com/@gkchandora1995">
   <img align="left" alt="Girish Kumar's Medium" width="20px" height="20px" src="https://user-images.githubusercontent.com/49120051/128596343-382abb1b-e3e6-436b-bef3-90f246a3212a.png" />
+</a>
+<a href="https://www.kaggle.com/girishkumarchandora">
+  <img align="left" alt="Girish Kumar's Kaggle" width="20px" height="20px" src="https://user-images.githubusercontent.com/49120051/128610421-9958e9f9-26f5-4292-b106-e41d3f365d2e.png" />
 </a>
 <br/>
 
