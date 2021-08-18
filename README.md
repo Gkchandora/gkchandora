@@ -24,15 +24,3 @@ Sometimes, I entertain myself by solving puzzle cubes ( eg : [Rubik's](https://e
 </a>
 <br/>
 
-### GitHub Stats
-
-<table class="center" style="width:100%;">
-  <tr>
-    <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gkchandora&count_private=true&show_icons=true&theme=onedark&hide_border=true&custom_title=Girish Kumar's GitHub Stats&line_height=20" />
-    </td>
-    <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkchandora&langs_count=10&theme=onedark&hide_border=true" />
-</td>
-  </tr>
-</table>
